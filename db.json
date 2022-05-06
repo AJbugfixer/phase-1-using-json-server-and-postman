@@ -1,0 +1,14 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "JSON-Server 1",
+        "content": "This is json-postman."
+      },
+      {
+        "id": 2,
+        "title": "JSON-Server 2",
+        "content": "This is also json-postman."
+      }
+    ]
+  }
